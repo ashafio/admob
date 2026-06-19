@@ -33,7 +33,7 @@ ca-app-pub-3940256099942544/5224354917
 ⚙️ Setup Instructions
 1. Clone the repository
 git clone https://github.com/ashafio/admob.git
-cd flutter-admob-demo
+cd admob
 2. Install dependencies
 flutter pub get
 3. Run the app
